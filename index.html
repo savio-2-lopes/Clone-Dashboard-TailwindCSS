@@ -1,18 +1,29 @@
+<!----------------------------------------------------------------------------------------- 
+
+Workshop TailwindCSS para designs rápidos ministrado por Mayk Brito 
+Todos os direitos de imagens reservados a Rocketseat (https://app.rocketseat.com.br) 
+
+------------------------------------------------------------------------------------------->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> TailwindCSS para designs rápidos </title>
+    <title> Aplicação TailwindCSS</title>
+
+    <!-- Utilizando TailwindCSS -->
 
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-
 </head>
 
 <body class="h-screen bg-black">
     <header class="py-4 px-6 bg-gray-900 flex items-center justify-between">
         <div>
+
+            <!-- Logo da Rocketseat - Todos os direitos de imagens reservados a Rocketseat (https://app.rocketseat.com.br) -->
+
             <div class="logo">
                 <svg viewBox="0 0 192 37" fill="none" class="h-5 sm:h-6">
                     <path
@@ -63,6 +74,9 @@
 
         <nav>
             <ul class="flex items-center">
+
+                <!-- Botão de Adicionar Usuário -->
+                
                 <li class="add-user p-3">
                     <a href="#">
                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" size="24"
@@ -75,6 +89,8 @@
                     </a>
                 </li>
 
+                <!-- Botão de Notificações -->
+                
                 <li class="alert p-3">
                     <a href="#">
                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" size="24"
@@ -86,6 +102,8 @@
                         </svg>
                     </a>
                 </li>
+
+                <!-- Perfil do Usuário -->
 
                 <li class="user flex items-center">
                     <strong class="text-gray-400
@@ -101,8 +119,12 @@
         </nav>
     </header>
 
-    <main class = "text-gray-400 text-center p-6">
-        <section class = "transform hover:-translate-y-3 transition-all duration-200 bg-gray-900 p-16 mt-8 rounded flex flex-col items-center">
+    <main class="text-gray-400 text-center p-6">
+
+        <!-- 1º Bloco do Dashboard -->
+
+        <section
+            class="transform hover:-translate-y-3 transition-all duration-200 bg-gray-900 p-16 mt-8 rounded flex flex-col items-center">
             <h2 class="sr-only"> Discover</h2>
             <svg class="h-auto mx-auto pb-16" width="166" height="143" viewBox="0 0 166 143" fill="none">
                 <path opacity="0.5"
@@ -142,7 +164,10 @@
             </p>
         </section>
 
-        <section class = "transform hover:-translate-y-3 transition-all duration-200 bg-gray-900 p-16 mt-8 rounded flex flex-col items-center">
+        <!-- 2º Bloco do Dashboard -->
+
+        <section
+            class="transform hover:-translate-y-3 transition-all duration-200 bg-gray-900 p-16 mt-8 rounded flex flex-col items-center">
             <h2 class="sr-only"> GoStack</h2>
             <svg class="h-auto mx-auto pb-16" width="164" height="146" viewBox="0 0 164 146" fill="none">
                 <path
@@ -178,7 +203,10 @@
             </p>
         </section>
 
-        <section class = "transform hover:-translate-y-3 transition-all duration-200 bg-gray-900 p-16 mt-8 rounded flex flex-col items-center">
+        <!-- 3º Bloco do Dashboard -->
+
+        <section
+            class="transform hover:-translate-y-3 transition-all duration-200 bg-gray-900 p-16 mt-8 rounded flex flex-col items-center">
             <h2 class="sr-only"> ExpertsClub</h2>
             <svg class="h-auto mx-auto pb-16" width="173" height="48" viewBox="0 0 173 48" fill="none">
                 <path
@@ -222,5 +250,4 @@
         </section>
     </main>
 </body>
-
 </html>
