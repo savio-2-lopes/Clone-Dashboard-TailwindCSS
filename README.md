@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Gatsby" title="#TailwindCSS" src="./static/01.gif" width="300px">
+  <img alt="Gatsby" title="#TailwindCSS" src="./static/01.gif" width="600px">
 </h3>
 
 <p align="center"> 💬 <strong>Clone do Dashboard do app da Rocketseat utilizando TailwindCSS</strong> 🚧
@@ -58,7 +58,7 @@
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="TailwindCSS" title="#TailwindCSS" src="./static/01.gif" width="300px">
+  <img alt="TailwindCSS" title="#TailwindCSS" src="./static/01.gif" width="600px">
 </p>
 
 <br>
