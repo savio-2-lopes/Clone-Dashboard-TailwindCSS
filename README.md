@@ -28,6 +28,8 @@
 - [Deploy](#deploy)
 - [Tecnologias](#tecnologias)
 - [Licença](#licenca)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimento)
 
 <br>
 
@@ -81,3 +83,24 @@ Todos os direitos reservados a [Rocketseat](https://rocketseat.com.br/)
 <br>
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
+
+<br>
+
+<a id="autor"></a>
+
+## 🦸 Autor
+
+[![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/savio-2-lopes) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com) 
+
+Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
+
+<br>
+
+<a id="agradecimento"></a>
+
+## 💙 Agradecimentos
+
+Obrigado [Rocketseat](https://rocketseat.com.br/) por disponibilizar esse conteúdo sensacional 🚀.
